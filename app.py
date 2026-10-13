@@ -1,4 +1,4 @@
-from flask import Flask, render_template_string, request, jsonify
+சூலகிரிலகிரிom flask import Flask, render_template_string, request, jsonify
 from datetime import datetime
 import json, os
 
@@ -55,7 +55,7 @@ select option{color:black}
 <body>
 <div class="header">
   <h1>ஸ்ரீ அஷ்டபுஜ<br>மகா காளிகம்பாள் துணை</h1>
-  <p style="margin-top:5px;opacity:0.8">சூலகிரி - செவ்வாய் & வெள்ளி மட்டும்</p>
+  <p style="margin-top:5px;opacity:0.8">பு.ஆதனூர் செவ்வாய் & வெள்ளி மட்டும்</p>
 </div>
 <div class="card">
   <form id="bookForm">
