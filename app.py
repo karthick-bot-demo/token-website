@@ -1,4 +1,4 @@
-சூலகிரிலகிரிom flask import Flask, render_template_string, request, jsonify
+om flask import Flask, render_template_string, request, jsonify
 from datetime import datetime
 import json, os
 
